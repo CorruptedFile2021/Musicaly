@@ -1,15 +1,14 @@
 {
-    "AppVersion": "1.0.0.0",
-    "Title": "Musically",
-    "Desc": "A Wallpaper for Lively Wallpaper centered Around Music!",
-    "Author": "CorruptedFile",
+    "AppVersion": "2.0.6.0",
+    "Title": "Music Graph",
+    "Desc": "music graph",
+    "Author": "corruptedfile",
     "License": "MIT",
     "Type": 1,
     "FileName": "index.html",
-    "Arguments": " --audio --system-nowplaying",
+    "Arguments": "--audio --system-nowplaying",
     "IsAbsolutePath": false,
     "Id": null,
     "Tags": null,
-    "Version": 1.0,
-    "Thumbnail": "Thumbnail.png"
-}
+    "Version": 0
+  }
